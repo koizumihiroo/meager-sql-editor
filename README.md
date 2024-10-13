@@ -47,7 +47,7 @@ Save locally and run:
 ローカルに保存して実行します：
 
 ```sh
-curl -o mse.py https://raw.githubusercontent.com/koizumihiroo/meager-sql-editor/refs/heads/master/mse.py
+curl -o mse.py https://raw.githubusercontent.com/koizumihiroo/meager-sql-editor/refs/heads/main/mse.py
 uv run mse.py
 ```
 
